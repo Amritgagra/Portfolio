@@ -2,6 +2,10 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
+=======
+  "source": "src/index.html",
+>>>>>>> 204dc8396fc8031f2d06bd6d481af395ab5631cf
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
