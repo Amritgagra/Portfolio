@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "source": "src/index.html",
-  "homepage": "https://amritgagra.github.io/Portfolio/",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "parcel build"
 
   },
   "author": "",
